@@ -1,1 +1,3 @@
-# memory-game
+# Memory Game
+
+Credits: DevEd https://github.com/developedbyed
